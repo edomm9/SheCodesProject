@@ -60,16 +60,13 @@ p {
   font-size: 20px;
 }
 button {
-  color: white;
-  background: #92b6f0;
-  padding: 16px 24px;
+  color: black;
+  background: #e5e5e5;
   transition: all 200ms ease;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-  border-radius: 10px;
+  border-radius: 3px;
+  border: 0cap;
 }
 button:hover {
-  color: #92b6f0;
-  background: white;
   cursor: pointer;
 }
 .celsius:hover {
