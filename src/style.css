@@ -1,0 +1,84 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 50px 20px;
+  background: linear-gradient(#92b6f0, #a0bff0, #b2cbf2, #c2d6f6, #d1dff6);
+}
+.sun1 {
+  font-size: 70px;
+  color: #f7ea21;
+}
+.sun1:hover {
+  font-size: 90px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.sun2 {
+  font-size: 70px;
+  color: #6f8ead;
+}
+.sun2:hover {
+  font-size: 90px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.sun3 {
+  font-size: 70px;
+  color: #ffffff;
+}
+.sun3:hover {
+  font-size: 90px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.sun4 {
+  font-size: 70px;
+  color: #ffffff;
+}
+.sun4:hover {
+  font-size: 90px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.sun5 {
+  font-size: 70px;
+  color: #6f8ead;
+}
+.sun5:hover {
+  font-size: 90px;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+.text {
+  position: relative;
+  left: 0;
+}
+img {
+  width: 350px;
+}
+p {
+  font-size: 20px;
+}
+button {
+  color: white;
+  background: #92b6f0;
+  padding: 16px 24px;
+  transition: all 200ms ease;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+button:hover {
+  color: #92b6f0;
+  background: white;
+  cursor: pointer;
+}
+.celsius:hover {
+  cursor: pointer;
+  color: white;
+  text-decoration: underline;
+}
+.fahrenheit:hover {
+  cursor: pointer;
+  color: white;
+  text-decoration: underline;
+}
