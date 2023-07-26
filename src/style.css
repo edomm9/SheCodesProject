@@ -79,3 +79,6 @@ button:hover {
   color: white;
   text-decoration: underline;
 }
+.link {
+  font-size: 12px;
+}
